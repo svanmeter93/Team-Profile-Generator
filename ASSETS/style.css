@@ -1,0 +1,47 @@
+.header {
+font-size: 7ch;
+text-align: center;
+background-color: rgb(101, 95, 99);
+color: rgb(237, 129, 35);
+padding: 1cm;
+margin:0%;
+}
+
+.card-body {
+    text-align: left;
+    width: 20em;
+    border: 1ch;
+    border-style: solid;
+    padding: 1em;
+    margin: 2em;
+    line-height:4ch;
+} 
+
+.occupation {
+    color: rgb(237, 129, 35);
+    border:.15em;
+    border-style: solid;
+    padding: .25in;
+}
+
+.name {
+    font-size: 4ch;
+    background-color: rgb(101, 95, 99);
+    color: rgb(237, 129, 35);
+    border:.15em;
+    border-style: solid;
+    padding: .25in;
+}
+
+.occupation {
+    font-size: 2.75ch;
+    background-color: rgb(101, 95, 99);
+}
+
+.card-text{
+    font-size: 2ch;
+    line-height: 3%;
+    border:.15em;
+    border-style: solid;
+    padding: .25in;
+}
